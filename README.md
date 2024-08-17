@@ -25,8 +25,6 @@ The project is structured to achieve the following:
 - **Notifications**: Configured Simple Notification Service (SNS) to alert about activities within the Auto Scaling Group.
 - **DNS Management**: Registered a domain name and set up DNS records using Route 53.
 
-## Architecture Diagram
-
 ## Deployment Instructions
 
 1. **Clone the Repository**:
