@@ -1,3 +1,6 @@
+![Alt text](/Host_a_Static_Website_on_AWS.png)
+
+
 # Static Website Hosting on AWS
 
 This project demonstrates how to host a static HTML web app on AWS using a highly available and scalable architecture. The website is hosted on EC2 instances within a Virtual Private Cloud (VPC), utilizing AWS resources for security, reliability, and fault tolerance.
