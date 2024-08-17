@@ -24,15 +24,12 @@ The project is structured to achieve the following:
 
 ## Architecture Diagram
 
-![Architecture Diagram](link_to_your_diagram_here)
-
 ## Deployment Instructions
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/aosnotes77/host-a-static-website-on-aws.git
-   ```
-
+   
 2. **Setup the EC2 Instances**:
    - SSH into your EC2 instance and switch to the root user:
      ```bash
@@ -70,9 +67,8 @@ The project is structured to achieve the following:
      ```bash
      systemctl enable httpd
      systemctl start httpd
-     ```
-
-3. **Access the Website**:
+     ``
+     3. **Access the Website**:
    - Once the Apache server is running, the static website can be accessed through the public IP address of your EC2 instance or via the domain name registered with Route 53.
 
 ## Resources
